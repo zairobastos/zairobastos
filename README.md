@@ -5,8 +5,8 @@
  - :man_technologist: Estudando sobre as seguintes tecnologias: **JS, ReactJS, HTML, CSS, SASS**
  - 📫 Como me encontrar: **zairo_vianahd@hotmail.com**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zairobastos&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zairobastos&&theme=dracula&layout=compact"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zairobastos&show_icons=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zairobastos&&theme=dracula&layout=compact"/> 
 </div>
 
 <hr></hr>
