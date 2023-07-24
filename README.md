@@ -20,6 +20,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zairobastos&show_icons=true&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zairobastos&&theme=dracula&layout=compact"/> 
 </div>
+<p align="center"> 
+  Quantidade de visitantes</br>
+  <img src="https://profile-counter.glitch.me/zairobastos/count.svg"/>
+</p>
 <!--
 **zairobastos/zairobastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
