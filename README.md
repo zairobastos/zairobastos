@@ -2,57 +2,27 @@
   <img src="github-header-image.png" alt="Header" />
 </div>
 
-<p align="center">
-  <a href="mailto:zairobastos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/zairobastos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/zairo.bastos/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+## Zairo Bastos | Mestrando em Ciência da Computação (UFC)
 
----
+👋 Olá! Sou Zairo Bastos, mestrando em Ciência da Computação pela **Universidade Federal do Ceará (UFC)**, com foco em **Inteligência Artificial**, **Modelagem de Séries Temporais**, **LLMs** e **Engenharia de Prompt**.
 
-### 👨‍💻 Sobre mim
+🚀 Minha paixão é aplicar conhecimentos avançados em IA e análise de dados para desenvolver soluções inovadoras e práticas para desafios do mundo real. Tenho experiência sólida em projetos de pesquisa e extensão, explorando o potencial de LLMs para tarefas como previsão de séries temporais e classificação inteligente de dados.
 
-Sou Luiz Zairo Bastos Viana, mestrando em Ciência da Computação na **Universidade Federal do Ceará (UFC)**. Atuo em projetos de pesquisa e extensão nas áreas de **Inteligência Artificial**, **Modelagem de Séries Temporais**, **LLMs** e **Engenharia de Prompt**. 
+### 🛠️ Tecnologias e Ferramentas:
 
-Tenho experiência com ferramentas modernas de desenvolvimento, análise de dados e IA aplicada, com foco em soluções práticas para problemas reais.
+*   **Linguagens:** Python, JavaScript
+*   **IA & Dados:** Pandas, Scikit-learn, Transformers, LangChain, Pinecone
+*   **LLMs:** GPT-4/GPT-4o, Gemini 1.5, LLaMA 3, DeepSeek
+*   **Web:** ReactJS, Streamlit, Flask, Node
+*   **DevOps & Outros:** Git, Docker, Linux, Jupyter, VSCode, Azure, Colab
 
----
+### ✨ Projetos em Destaque:
 
-### 🚀 Tecnologias e Ferramentas
+*   `🧠 Prompt-Guided Forecasting`: Utilização de LLMs para previsão de séries temporais em cenários de varejo e transporte.
+*   `🔍 Classificação de Perguntas com LLMs`: Desenvolvimento de pipelines com embeddings e busca vetorial para classificação semântica.
+*   `📈 Análise de Sonegação Fiscal`: Aplicação de técnicas de dados para análise da arrecadação do ISS em Fortaleza.
+*   `💻 Ciência de Dados (ICC)`: Trabalhos práticos da disciplina de Introdução à Ciência de Dados.
+*   `🏆 Competições de Programação`: Coordenação de treinamentos para a Maratona de Programação e OBI.
 
-- **Linguagens:** Python, JavaScript, SQL, Bash
-- **IA e Dados:** Pandas, Scikit-learn, Transformers, OpenAI API, LangChain, Pinecone
-- **LLMs:** GPT-4, GPT-4o, Gemini 1.5, LLaMA 3
-- **Web:** HTML, CSS, ReactJS, Streamlit
-- **DevOps:** Git, Docker, Linux
-- **Outros:** Jupyter, VSCode, Azure, Colab
+📫 Sinta-se à vontade para explorar meus repositórios e entrar em contato! ([Email](mailto:zairo_vianahd@hotmail.com))
 
----
-
-### 📚 Projetos em Destaque
-
-- `🧠 Prompt-Guided Forecasting`: Aplicando LLMs para prever séries temporais em atacarejos e transporte urbano.
-- `🔍 Classificação de Perguntas com LLMs`: Pipeline com embeddings, busca vetorial e agentes classificadores.
-- `📈 Análise de Sonegação do ISS`: Estudo aplicado à arrecadação fiscal do município de Fortaleza.
-- `🏆 Maratona de Programação e OBI`: Organização e coordenação de treinamentos e competições para alunos da educação básica.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zairobastos&show_icons=true&theme=dracula&count_private=true" alt="GitHub stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zairobastos&layout=compact&theme=dracula" alt="Top languages"/>
-</div>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/zairobastos/count.svg" alt="Visitor Count"/>
-</p>
