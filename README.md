@@ -26,7 +26,7 @@
 
 📫 Sinta-se à vontade para explorar meus repositórios e entrar em contato! ([Email](mailto:zairo_vianahd@hotmail.com))
 
+<p align="center"> Visitas</p>
 <p align="center">
-  Visitas
    <img src="https://profile-counter.glitch.me/zairobastos/count.svg" alt="Visitor Count"/>
  </p>
